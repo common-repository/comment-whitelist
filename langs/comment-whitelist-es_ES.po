@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Comment Whitelist\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-03-12 20:11+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Alejandro Carravedo <acarravedo@blogestudio.com>\n"
+"Language-Team: Blogestudio <blogs@blogestudio.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comment-whitelist.php:43
+#: comment-whitelist.php:50
+msgid "Comment Whitelist"
+msgstr "Lista blanca de comentarios"
+
+#: comment-whitelist.php:53
+msgid "Is marked as \"approved\" any comment that includes any of the following e-mail accounts. Separate with newlines."
+msgstr "Se marcará como \"aprobado\" cualquier comentario que incluya alguna de las siguientes cuentas de correo electrónico. Sepáralas con saltos de línea."
+
+#: comment-whitelist.php:133
+msgid "Send this commenter to comment whitelist"
+msgstr "Enviar este comentarista a la lista blanca de comentarios"
+
+#: comment-whitelist.php:133
+msgid "Put in Whitelist"
+msgstr "Poner en la lista blanca"
+
+#: comment-whitelist.php:138
+msgid "Quit this commenter from comment whitelist"
+msgstr "Quitar este comentarista de la lista blanca de comentarios"
+
+#: comment-whitelist.php:138
+msgid "Quit from Whitelist"
+msgstr "Quitar de la lista blanca"
+
